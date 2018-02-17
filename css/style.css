@@ -1,0 +1,41 @@
+
+body{
+	font: 20px/1.5 Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+	background-color: #303a4d;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+header {
+	background: #300003;
+	color: #ffffff;
+	padding-top: 25px;
+	min-height: 70px;
+	border-bottom: #828282 4px solid;
+	border-left: #828282 4px solid;
+	border-right: #828282 4px solid;
+}
+
+header a{
+	color: #f4f4f4;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 22px;
+}
+
+header ul{
+	margin: 0;
+	padding: 0;
+}
+
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px;
+}
